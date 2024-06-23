@@ -1,0 +1,19 @@
+h2{
+background-color: rgb(19, 143, 143);
+}
+#para{
+    color: red;
+}
+.he{
+    color: brown;
+}
+.h11{
+    background-image:url(./images/sun\ image.jpg);
+    background-size: cover;
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+}
+
+
+
